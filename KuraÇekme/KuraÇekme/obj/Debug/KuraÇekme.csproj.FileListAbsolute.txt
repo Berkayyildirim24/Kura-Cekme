@@ -1,0 +1,11 @@
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\bin\Debug\KuraÇekme.exe.config
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\bin\Debug\KuraÇekme.exe
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\bin\Debug\KuraÇekme.pdb
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.csproj.AssemblyReference.cache
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.Form1.resources
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.Properties.Resources.resources
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.csproj.GenerateResource.cache
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.csproj.CoreCompileInputs.cache
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.exe
+C:\Users\Lab02-01\source\repos\KuraÇekme\KuraÇekme\obj\Debug\KuraÇekme.pdb
